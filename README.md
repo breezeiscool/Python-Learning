@@ -1,9 +1,10 @@
 # Python-Learning
 ## Preface
-* Trying hard to acquire this language which means a lot to me...
-* Feel resolved to get assess to another way of thinking and address issues.
+* Getting to the assess of this language which means a lot to me...
+* As a business student,i want to break out my zone for there are lot of neophilia waiting for me to acknowledge.
+* Being accustomed to analysis the problem or issue oriented by process due to my major background,i feel obliged to adapt to another way of thinking and address issues.I was like,ooh,so resolved to weighting my competence.Programming has become like a mantra:"Open sesame".
 
-*A special thanks here to my boy Peter for guidance and companion!*
+*A special thanks here to my boy Peter for guidance and companion!luv u always.*
 
 # Learning process update:
 
@@ -24,7 +25,9 @@
 1. the execution of function won't imple unless its invoking
 2. command "return" serves as a role of going back to the function for implement/terminate the implement of function/return to multiple values and putting them into a tuple.
 
+## epilogue
 Thanks for follow a noob of Python and witness my progress in python!
+I would never fail to hold the drive for it! 
 
 ;-)
 
