@@ -1,4 +1,4 @@
-# Palindrome numbers test
+# Palindrome numbers test （bug existing version）
 num = []
 n = int(input('(with stack)input the number you wanna test:'))
 m = n % 10
@@ -20,6 +20,24 @@ if num_check == num_final:
 else:
     print("Sorry,this is not a palindrome number!")
 print(num_final)
+
+# Palindrome numbers test (modification version)
+def numlist(n):
+    num = []
+    m = n % 10
+    while m != n:
+        num.append(m)
+        n = (n - m) / 10
+        m = int(n % 10)
+    else:
+        num.append(m)
+    return num
+num = numlist(int(input("the number you wanna test is:")))
+num_check = num[:] #or list[] or import copy →“=” means the congruent relationship between the two list even when the list“num” changes
+print(num_check)
+num_final = []
+while num != []:
+    num_final.append(num.pop())
 
 
 
