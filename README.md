@@ -1,8 +1,8 @@
 # Python-Learning
 ## Preface
 * Getting to the assess of this language which means a lot to me...
-* As a business student,i want to break out my zone for there are lot of neophilia waiting for me to acknowledge.
-* Being accustomed to analysis the problem or issue oriented by process due to my major background,i feel obliged to adapt to another way of thinking and address issues.I was like,ooh,so resolved to weighting my competence.Programming has become like a mantra:"Open sesame".
+* As a business student,all I want to acquire is to break out my zone for there are lot of neophilia waiting for me to acknowledge.
+* Being accustomed to analysis the problem or issue oriented by process due to my major background,i feel obliged to adapt to another way of thinking and address issues.I was like,ooh,so resolved to weight my competence.Programming，for me，has become like a mantra:"Open sesame".
 
 *A special thanks here to my boy Peter for guidance and companion!luv u always.*
 
