@@ -26,7 +26,7 @@
 2. command "return" serves as a role of going back to the function for implement/terminate the implement of function/return to multiple values and putting them into a tuple.
 
 ## Epilogue
-Thanks for follow a noob of Python and witness my progress in python!
+Thanks for following a noob of Python and witnessing my progress in python!
 I would never fail to hold the drive for it! 
 
 ;-)
