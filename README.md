@@ -25,7 +25,7 @@
 1. the execution of function won't imple unless its invoking
 2. command "return" serves as a role of going back to the function for implement/terminate the implement of function/return to multiple values and putting them into a tuple.
 
-## epilogue
+## Epilogue
 Thanks for follow a noob of Python and witness my progress in python!
 I would never fail to hold the drive for it! 
 
