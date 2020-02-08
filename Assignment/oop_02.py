@@ -10,7 +10,7 @@ class Stack:
         return print(True) #for monitoring the implement
 
     def pop(self):
-        # 先判断栈是否为空
+        # Judge whether the stack is empty or not before popping.
         if self.items:
             pop = self.items.pop()
             return pop
@@ -18,7 +18,7 @@ class Stack:
             return False
 
     def peek(self):
-        # Returns the top item on the stack without removing it.
+        # Return to the top item on the stack without removing it.
         assert not self.isEmpty(), "Cannot peek at an empty stack"
         return self.items[-1]
 
@@ -29,7 +29,7 @@ class Stack:
         # Returns True if the stack is empty or False otherwise.
         return len(self.items) == 0
 
-
+# test for the creating the class "stack"
 test=Stack()
 print(test.pop())
 test.push(1)
