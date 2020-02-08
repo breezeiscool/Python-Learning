@@ -1,3 +1,8 @@
+# Student:Coco
+# Assistant:Peter
+# Score:97
+# Time:2020.2.7
+# Pay more attention to what happened in the computer hardware when running your code can help you gain more glimpse into it.
 # Palindrome numbers test （bug existing version）
 num = []
 n = int(input('(with stack)input the number you wanna test:'))
