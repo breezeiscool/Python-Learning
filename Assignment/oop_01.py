@@ -1,3 +1,8 @@
+# Student:Coco
+# Assistant:Peter
+# Scores:96
+# To my best-loved piggy: This class has completed structure overall...
+# but in order to adapt to different requirement we often overload multiple constructors.
 class Guitar:
 
 
@@ -28,5 +33,3 @@ Coco_Guitar.set_brand('Fender')
 Coco_Guitar.get_brand()
 print(Coco_Guitar.get_brand())
 Coco_Guitar.recital()
-
-
